@@ -1,4 +1,4 @@
-# CosmWasm NFTS
+# Terra NFTS
 
 This repo is the official repository to work on all NFT standard and examples
 in the CosmWasm ecosystem. `cw721` and `cw721-base` were moved from
